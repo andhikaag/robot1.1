@@ -1723,15 +1723,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\btpnsshifted\\.nuget\\packages\\": {}
+    "C:\\Users\\21932243\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "robot1.1",
       "projectName": "robot1.1",
-      "projectPath": "C:\\Users\\btpnsshifted\\Documents\\GitHub\\robot1.1\\.local",
-      "packagesPath": "C:\\Users\\btpnsshifted\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\btpnsshifted\\Documents\\GitHub\\robot1.1\\.local"
+      "projectPath": "D:\\work\\uipath\\robot1.1\\.local",
+      "packagesPath": "C:\\Users\\21932243\\.nuget\\packages\\",
+      "outputPath": "D:\\work\\uipath\\robot1.1\\.local"
     },
     "frameworks": {
       "net461": {
